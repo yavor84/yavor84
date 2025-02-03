@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yavor84
 - 👀 I’m interested in IT
-- 🌱 I’m currently studying in the fullstack course
+- 🌱 I’m currently studying in the Full Stack Developer course
 
 
 
