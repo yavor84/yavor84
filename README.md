@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yavor84
+- 👋 Hi, I’m Dmytro Yavor
 - 👀 I’m interested in IT
 - 🌱 I’m currently studying in the Full Stack Developer course
 
