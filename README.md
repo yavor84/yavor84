@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dmytro Yavor
 - 👀 I’m interested in IT
 - 🌱 I’m currently studying in the Full Stack Developer course
-
+- 📫 How to reach me: pojardim@gmail.com
 
 
 <!---
